@@ -1,0 +1,27 @@
+{
+  "name": "@derekdon/npm-process",
+  "version": "1.0.0",
+  "description": "A library for tracking the progress of completing a process via steps",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/derekdon/npm-process.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Derek Donnelly",
+    "email": "derek@derekdonnelly.com"
+  },
+  "maintainers": [
+    {
+      "name": "derekdon",
+      "email": "derek@derekdonnelly.com"
+    }
+  ],
+  "license": "UNLICENSED",
+  "dependencies": {
+    "lodash": "^4.12.0"
+  }
+}
